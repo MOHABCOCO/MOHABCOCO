@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOHABCOCO
-- 👀 I’m interested in web
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in backend and game development
+- 🌱 I’m currently learning python (flask) and godot
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me "you can't"
 
